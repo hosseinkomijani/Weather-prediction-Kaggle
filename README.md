@@ -1,4 +1,4 @@
-# Weather-prediction-Kaggle
+# Weather-prediction-Kaggle-Dataset
 
 # 
 weather prediction problem based on time series forcasting using LSTM and Dense layers in a Deep neural network.
